@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/rdf-connect/file-utils-processors-ts#readme",
   "dependencies": {
-    "@rdfc/js-runner": "^1.0.0-alpha.0",
+    "@rdfc/js-runner": "^1.0.0-alpha.7",
     "adm-zip": "^0.5.16",
     "glob": "^10.4.5",
     "winston": "^3.17.0"
@@ -39,9 +39,9 @@
   "devDependencies": {
     "@jest/globals": "^29.7.0",
     "@types/adm-zip": "^0.5.7",
-    "@types/node": "^20.17.10",
+    "@types/node": "^20.17.12",
     "ts-node": "^10.9.2",
     "tsc-alias": "^1.8.10",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.3"
   }
 }

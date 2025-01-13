@@ -33,7 +33,7 @@
   "dependencies": {
     "@rdfc/js-runner": "^1.0.0-alpha.0",
     "adm-zip": "^0.5.16",
-    "glob": "^10.4.5",
+    "glob": "^11.0.1",
     "winston": "^3.17.0"
   },
   "devDependencies": {
